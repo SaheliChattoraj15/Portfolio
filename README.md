@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+hey , see waht i am looking for is to build a portfolio website for My self My name is Saheli Chattoraj , i am a Final Year Betch Student , my aim is to build a mordern sleek detailed rich about my self , You can use ShadCn Ui components , tailwind css , 
 
-## Getting Started
+** what not to do **
 
-First, run the development server:
+1> do not use over gradient colours
+2>Do not put electric colour 
+3> Do not overuse the emojis
+4> Do not make the theme look like a Si-fi movie
+5> do not use iner or Arial front
+6> should not look like slop
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**What to maintain**
+. use the google front and see the 5th point for the what not to do
+. use proper gaps and 
+. use proper SEO 
+. what youn need to do please main that i can get some managearial post not only engerring 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**About**
+ 
+Final-year B.Tech (Computer Science & Engineering) student with a strong passion for technology, innovation, and problem-solving. Skilled in data structures, and modern development tools, with a keen interest in building efficient and scalable solutions.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+A quick learner and dedicated individual, always eager to explore emerging technologies and enhance technical expertise. Actively seeking opportunities to apply academic knowledge in real-world projects and contribute to impactful solutions.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Driven by curiosity and a growth mindset, aiming to begin a professional journey in the tech industry where I can learn, innovate, and make a meaningful impact.
 
-## Learn More
+Warm Regards,
+Thanking You
+SAHELI CHATTORAJ
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
